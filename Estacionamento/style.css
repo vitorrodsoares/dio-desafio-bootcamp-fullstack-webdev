@@ -1,0 +1,39 @@
+body  {
+    background-color: lightegray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+#cadastrar{
+    color: black;
+    background-color: lightslategray;
+    border-radius: 4px;
+    border: 2px solid dark;
+    margin-bottom: 25px;
+}
+
+.vertical {
+    border-right: 2px solid black;
+}
+
+#nome{
+    height: 25px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+#placa{
+    height: 25px;
+    width: 200px;
+    margin-bottom: 10px;
+
+}
+
+.delete{
+    background-color: red;
+    border-radius: 50px;
+    height: 25px;
+}
+
