@@ -6,19 +6,19 @@ A aplicação foi desenvolvida utilizando o Github Public API.
 
 Nela é possível fazer as seguintes operações:
 
-*Buscar informações do usuário por username.
+* Buscar informações do usuário por username.
 
-*Buscar repositórios por username.
+* Buscar repositórios por username.
 
-*Buscar Starred Repos por username.
+* Buscar Starred Repos por username.
 
 Bibliotecas utilizadas:
 
-*Axios
+* Axios
 
-*React-tabs
+* React-tabs
 
-*styled-components
+* styled-components
 
 Aplicação originalmente desenvolvida por Benits (https://github.com/benits) e ministrada para este Bootcamp.
 
